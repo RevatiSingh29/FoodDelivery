@@ -4,6 +4,8 @@
 ![Screenshot (377)](https://github.com/RevatiSingh29/FoodDelivery/assets/143447751/4aa3dd44-2722-418d-8fa5-a018979b3af8)
 ![Screenshot (378)](https://github.com/RevatiSingh29/FoodDelivery/assets/143447751/89578cd5-5d33-4786-bd75-e720e70d1414)
 ![Screenshot (379)](https://github.com/RevatiSingh29/FoodDelivery/assets/143447751/04903cbc-25f9-4046-9ee2-2d03916b1d89)
+![Screenshot (382)](https://github.com/RevatiSingh29/FoodDelivery/assets/143447751/1bd30afd-1271-4c8e-8556-23188dc1adc3)
+
 
 
 
