@@ -1,4 +1,4 @@
-# Food Delivery App (MERN Stack)
+# Food Delivery (Tomato) App (MERN Stack)
 
 A full-stack food delivery web application with user and admin functionality, built using MongoDB, Express.js, React.js, and Node.js.
 
